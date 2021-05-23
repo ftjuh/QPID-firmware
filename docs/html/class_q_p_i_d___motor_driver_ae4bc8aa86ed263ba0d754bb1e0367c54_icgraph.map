@@ -1,0 +1,4 @@
+<map id="QPID_MotorDriver::coast" name="QPID_MotorDriver::coast">
+<area shape="rect" id="node1" title="(abstract) cut power and let motor coast to a slow stop (fast decay stop), implies setSpeed(0)" alt="" coords="156,5,327,32"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d.html#a7267cdd4f5c4c0c686c1af6bb0579205" title="Main activity loop. Updates speed measurement, PIDs etc. Call this as often as possible." alt="" coords="5,5,108,32"/>
+</map>

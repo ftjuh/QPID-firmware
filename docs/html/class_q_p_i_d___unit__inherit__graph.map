@@ -1,0 +1,4 @@
+<map id="QPID_Unit" name="QPID_Unit">
+<area shape="rect" id="node1" title="A QPID_Unit objects bundles access to three hardware components, a motor driver, an position encoder,..." alt="" coords="12,80,99,107"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="5,5,105,32"/>
+</map>

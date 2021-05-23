@@ -1,0 +1,4 @@
+<map id="QPID::kicked" name="QPID::kicked">
+<area shape="rect" id="node1" title="Due to inertia, DC motors don&#39;t start to run at very low speeds, they need a &quot;kick&quot; to get going...." alt="" coords="156,5,257,32"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d.html#a7267cdd4f5c4c0c686c1af6bb0579205" title="Main activity loop. Updates speed measurement, Call this as often as possible." alt="" coords="5,5,108,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QPID_ESP32_Encoder" name="QPID_ESP32_Encoder">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,164,181"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___encoder.html" title="Mostly abstract class for any kind of rotary encoder." alt="" coords="29,80,140,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Doesn&#39;t do much at the moment besides establishing the message proce..." alt="" coords="35,5,135,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QPID_Endstop_Digital" name="QPID_Endstop_Digital">
+<area shape="rect" id="node1" title="Implements the simplest form of endstop using a digital input pin." alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___endstop.html" title="Abstract class for any kind of endstop switch." alt="" coords="27,80,138,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="33,5,133,32"/>
+</map>

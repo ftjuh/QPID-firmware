@@ -1,0 +1,4 @@
+<map id="QPID_Digital_Endstop::init" name="QPID_Digital_Endstop::init">
+<area shape="rect" id="node1" title="Initialises the endstop with given parameters. Needs be called first before using the object." alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___digital___endstop.html#a2b87ad3323fb17b0fb24da9784348509" title="Interprets messages specific for this class." alt="" coords="5,5,160,47"/>
+</map>

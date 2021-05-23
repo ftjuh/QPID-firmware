@@ -1,0 +1,4 @@
+<map id="QPID::disableKick" name="QPID::disableKick">
+<area shape="rect" id="node1" title="Disables kicking." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d.html#a29a1c62b300593f6773f4be90415484e" title="Due to inertia and friction, DC motors don&#39;t start to run at very low speeds, they need a &quot;kick&quot; to g..." alt="" coords="184,5,291,32"/>
+</map>

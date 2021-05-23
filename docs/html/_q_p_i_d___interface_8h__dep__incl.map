@@ -1,0 +1,11 @@
+<map id="QPID_Interface.h" name="QPID_Interface.h">
+<area shape="rect" id="node1" title="Part of the QPID autonomous motor driver project." alt="" coords="306,5,430,32"/>
+<area shape="rect" id="node2" href="$_q_p_i_d___encoder___e_s_p32_8h.html" title="Part of the QPID autonomous motor driver project." alt="" coords="62,87,231,114"/>
+<area shape="rect" id="node6" href="$_q_p_i_d___endstop___digital_8h.html" title="Part of the QPID autonomous motor driver project." alt="" coords="285,87,451,114"/>
+<area shape="rect" id="node8" href="$_q_p_i_d___encoder___quadrature_state_machine_8h.html" title="Part of the QPID autonomous motor driver project." alt="" coords="542,80,754,121"/>
+<area shape="rect" id="node3" href="$_q_p_i_d___unit_8h.html" title="Part of the QPID autonomous motor driver project." alt="" coords="233,177,330,203"/>
+<area shape="rect" id="node4" href="$_q_p_i_d___unit_8cpp.html" title="Part of the QPID autonomous motor driver project." alt="" coords="226,259,337,285"/>
+<area shape="rect" id="node5" href="$_q_p_i_d___encoder___e_s_p32_8cpp.html" title="Part of the QPID autonomous motor driver project." alt="" coords="26,177,209,203"/>
+<area shape="rect" id="node7" href="$_q_p_i_d___endstop___digital_8cpp.html" title="Part of the QPID autonomous motor driver project." alt="" coords="405,177,584,203"/>
+<area shape="rect" id="node9" href="$_q_p_i_d___encoder___quadrature_state_machine_8cpp.html" title="Part of the QPID autonomous motor driver project." alt="" coords="609,169,821,211"/>
+</map>

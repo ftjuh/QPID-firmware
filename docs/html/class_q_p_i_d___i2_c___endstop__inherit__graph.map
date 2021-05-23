@@ -1,0 +1,4 @@
+<map id="QPID_I2C_Endstop" name="QPID_I2C_Endstop">
+<area shape="rect" id="node1" title="Implements the simplest form of endstop using a digital input pin." alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___endstop.html" title="Abstract class for any kind of endstop switch." alt="" coords="19,5,130,32"/>
+</map>

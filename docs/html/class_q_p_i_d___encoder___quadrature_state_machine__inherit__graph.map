@@ -1,0 +1,5 @@
+<map id="QPID_Encoder_QuadratureStateMachine" name="QPID_Encoder_QuadratureStateMachine">
+<area shape="rect" id="node1" title="Implements a state machine quadrature encoder based on Matthias Hertel&#39;s rotary library" alt="" coords="5,155,217,196"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___encoder.html" title="Mostly abstract class for any kind of rotary encoder with optional filtering for jittery or error pro..." alt="" coords="56,80,167,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="61,5,161,32"/>
+</map>

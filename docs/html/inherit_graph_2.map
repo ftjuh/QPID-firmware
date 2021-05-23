@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="5,173,105,200"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___encoder.html" title="Mostly abstract class for any kind of rotary encoder with optional filtering for jittery or error pro..." alt="" coords="163,64,274,91"/>
+<area shape="rect" id="node5" href="$class_q_p_i_d___endstop.html" title="Abstract class for any kind of endstop switch." alt="" coords="163,148,274,175"/>
+<area shape="rect" id="node8" href="$class_q_p_i_d___motor_driver.html" title="Mostly abstract class that defines access methods and features for generic motors,..." alt="" coords="153,199,284,225"/>
+<area shape="rect" id="node10" href="$class_q_p_i_d___unit.html" title="A QPID_Unit objects bundles access to three hardware components, a motor driver, an position encoder,..." alt="" coords="175,249,262,276"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___encoder___e_s_p32.html" title="Implements a quadrature encoder using ESP32&#39;s super cool hardware counters (yeah!)...." alt="" coords="361,5,520,32"/>
+<area shape="rect" id="node4" href="$class_q_p_i_d___encoder___quadrature_state_machine.html" title="Implements a state machine quadrature encoder based on Matthias Hertel&#39;s rotary library" alt="" coords="335,57,547,98"/>
+<area shape="rect" id="node6" href="$class_q_p_i_d___endstop___digital.html" title="Implements the simplest form of endstop using a digital input pin." alt="" coords="363,123,518,149"/>
+<area shape="rect" id="node7" href="$class_q_p_i_d___endstop___pin_shared_analog.html" title="Implements an endstop connected to an analog pin with a resistor network, thus sharing the pin with o..." alt="" coords="332,173,549,200"/>
+<area shape="rect" id="node9" href="$class_q_p_i_d___motor_driver___d_r_v8833.html" title="Implement a QPID_MotorDriver for TI&#39;s DRV8833 chip based modules. (Watch out for fake modules with th..." alt="" coords="343,224,538,251"/>
+</map>

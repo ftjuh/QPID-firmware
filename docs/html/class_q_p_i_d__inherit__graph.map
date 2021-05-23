@@ -1,0 +1,4 @@
+<map id="QPID" name="QPID">
+<area shape="rect" id="node1" title="A QPID objects bundles access to three hardware components, a motor driver, an position encoder,..." alt="" coords="28,80,83,107"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Doesn&#39;t do much at the moment besides establish the message processi..." alt="" coords="5,5,105,32"/>
+</map>

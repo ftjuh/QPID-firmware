@@ -1,0 +1,7 @@
+<map id="QPID::update" name="QPID::update">
+<area shape="rect" id="node1" title="Main activity loop. Updates speed measurement, PIDs etc. Call this as often as possible." alt="" coords="5,81,108,108"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___motor_driver.html#ae3c5b6b58e17bd8e08b47eb4471b4f80" title="(abstract) bring motor to abrupt stop (slow decay stop), implies setSpeed(0)" alt="" coords="167,5,338,32"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___motor_driver.html#ae4bc8aa86ed263ba0d754bb1e0367c54" title="(abstract) cut power and let motor coast to a slow stop (fast decay stop), implies setSpeed(0)" alt="" coords="167,56,338,83"/>
+<area shape="rect" id="node4" href="$class_q_p_i_d___encoder.html#a27fd830638aff5db3c0f21e6d704d2d9" title="(abstract) Returns current position count" alt="" coords="167,107,338,133"/>
+<area shape="rect" id="node5" href="$class_q_p_i_d___motor_driver.html#abfed76931bd28ea9eb737a8221ccb8ff" title="(abstract) set speed, i.a. make the motor run; sign indicates direction: &#45;255 to 255" alt="" coords="156,157,349,184"/>
+</map>

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['s_153',['s',['../structmsg_init_d_r_v8833.html#a42dc969bf06ed77713437915b5519064',1,'msgInitDRV8833::s()'],['../_q_p_i_d_8ino.html#afbd8107693802bdd056e43cf5e556bba',1,'s():&#160;QPID.ino']]],
+  ['setcount_154',['setCount',['../class_q_p_i_d___encoder.html#a43a2c97548e0cb4d371240941cd81367',1,'QPID_Encoder::setCount()'],['../class_q_p_i_d___encoder___e_s_p32.html#a5f2ff8caa01881abf99fdc07fd4af161',1,'QPID_Encoder_ESP32::setCount()'],['../class_q_p_i_d___encoder___quadrature_state_machine.html#ab97271110800a83d0457054361a11a4d',1,'QPID_Encoder_QuadratureStateMachine::setCount()']]],
+  ['setdecay_155',['setDecay',['../class_q_p_i_d___motor_driver.html#ab00516a8d8d502d930e379523d915930',1,'QPID_MotorDriver::setDecay()'],['../class_q_p_i_d___motor_driver___d_r_v8833.html#aca308ac15c9e292a9abe477cdd3da4eb',1,'QPID_MotorDriver_DRV8833::setDecay()']]],
+  ['setfilter_156',['setFilter',['../class_q_p_i_d___encoder.html#a439e1d87cd0f7b41f5e7753778623d5b',1,'QPID_Encoder']]],
+  ['setfrequency_157',['setFrequency',['../class_q_p_i_d___motor_driver.html#a5bbc867cb38bb64dca256f08b85688ed',1,'QPID_MotorDriver::setFrequency()'],['../class_q_p_i_d___motor_driver___d_r_v8833.html#ae9002ee5c6ca29692f6a51b49e2737fc',1,'QPID_MotorDriver_DRV8833::setFrequency()']]],
+  ['setkick_158',['setKick',['../class_q_p_i_d___unit.html#aa64f023003ad54493aaaf5473f40f0da',1,'QPID_Unit']]],
+  ['setpower_159',['setPower',['../class_q_p_i_d___motor_driver.html#a2ddcf9dbccba3a42919c269b8ffd0abf',1,'QPID_MotorDriver::setPower()'],['../class_q_p_i_d___motor_driver___d_r_v8833.html#a01c236319a116cf1fcff03b172d8a502',1,'QPID_MotorDriver_DRV8833::setPower()']]],
+  ['setup_160',['setup',['../_q_p_i_d_8ino.html#a4fc01d736fe50cf5b977f755b675f11d',1,'QPID.ino']]],
+  ['speedkd_161',['speedKd',['../class_q_p_i_d___unit.html#a7ec169e4ca884f6fe00216d7a466a895',1,'QPID_Unit']]],
+  ['speedki_162',['speedKi',['../class_q_p_i_d___unit.html#ad8fe68260ea89951ffee374650302183',1,'QPID_Unit']]],
+  ['speedkp_163',['speedKp',['../class_q_p_i_d___unit.html#aae16641a78f61292aa74504dffb69abe',1,'QPID_Unit']]],
+  ['speedpid_164',['speedPID',['../class_q_p_i_d___unit.html#aa3d5126153b975f04c4793c8e156a3c3',1,'QPID_Unit']]],
+  ['speedtolerance_165',['speedTolerance',['../class_q_p_i_d___unit.html#a97e8bc022b30acf9d65653cbdac947da',1,'QPID_Unit']]],
+  ['state_166',['state',['../class_q_p_i_d___unit.html#a9234d05198cde0cb6fea6b79eac6da1c',1,'QPID_Unit']]],
+  ['stopmode_167',['stopMode',['../class_q_p_i_d___unit.html#a8c6dd6dd1b2d41a5827c7715caaae881',1,'QPID_Unit']]],
+  ['stopped_168',['stopped',['../class_q_p_i_d___unit.html#ada7b31c4261c3df9fe96f2d090341076a5a9858054aa5994cf936a65f0620e637',1,'QPID_Unit']]],
+  ['stoppedbyendstop_169',['stoppedByEndStop',['../class_q_p_i_d___unit.html#ada7b31c4261c3df9fe96f2d090341076a7eae58e2350338f95361ae7d7ee0a2c2',1,'QPID_Unit']]],
+  ['stoppedbypositionlimit_170',['stoppedByPositionLimit',['../class_q_p_i_d___unit.html#ada7b31c4261c3df9fe96f2d090341076a3103a85901205f1a5e5f692a56da5b26',1,'QPID_Unit']]]
+];

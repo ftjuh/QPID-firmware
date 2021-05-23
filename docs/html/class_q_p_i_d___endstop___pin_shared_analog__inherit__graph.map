@@ -1,0 +1,5 @@
+<map id="QPID_Endstop_PinSharedAnalog" name="QPID_Endstop_PinSharedAnalog">
+<area shape="rect" id="node1" title="Implements an endstop connected to an analog pin with a resistor network, thus sharing the pin with o..." alt="" coords="5,155,223,181"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___endstop.html" title="Abstract class for any kind of endstop switch." alt="" coords="59,80,169,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="64,5,164,32"/>
+</map>

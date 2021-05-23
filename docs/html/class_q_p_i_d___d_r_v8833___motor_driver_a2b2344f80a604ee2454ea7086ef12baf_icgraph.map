@@ -1,0 +1,4 @@
+<map id="QPID_DRV8833_MotorDriver::attach" name="QPID_DRV8833_MotorDriver::attach">
+<area shape="rect" id="node1" title="Set pins connected to DRV8833 IN1 and IN2." alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___d_r_v8833___motor_driver.html#ad54d9b8f725a5c71b55a0d56cffbb5fa" title="Set pins connected to DRV8833 IN1, IN2, and nSLEEP." alt="" coords="5,5,200,47"/>
+</map>

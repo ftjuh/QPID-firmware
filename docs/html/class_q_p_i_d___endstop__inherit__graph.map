@@ -1,0 +1,6 @@
+<map id="QPID_Endstop" name="QPID_Endstop">
+<area shape="rect" id="node1" title="Abstract class for any kind of endstop switch." alt="" coords="133,80,243,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___endstop___digital.html" title="Implements the simplest form of endstop using a digital input pin." alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node4" href="$class_q_p_i_d___endstop___pin_shared_analog.html" title="Implements an endstop connected to an analog pin with a resistor network, thus sharing the pin with o..." alt="" coords="185,155,402,181"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="138,5,238,32"/>
+</map>

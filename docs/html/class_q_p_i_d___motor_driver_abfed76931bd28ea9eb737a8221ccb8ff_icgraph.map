@@ -1,0 +1,4 @@
+<map id="QPID_MotorDriver::setSpeed" name="QPID_MotorDriver::setSpeed">
+<area shape="rect" id="node1" title="(abstract) set speed, i.a. make the motor run; sign indicates direction: &#45;255 to 255" alt="" coords="156,5,349,32"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d.html#a7267cdd4f5c4c0c686c1af6bb0579205" title="Main activity loop. Updates speed measurement, PIDs etc. Call this as often as possible." alt="" coords="5,5,108,32"/>
+</map>

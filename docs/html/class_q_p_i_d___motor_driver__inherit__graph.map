@@ -1,0 +1,6 @@
+<map id="QPID_MotorDriver" name="QPID_MotorDriver">
+<area shape="rect" id="node1" title="Mostly abstract class that defines access methods and features for generic motors,..." alt="" coords="138,80,269,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___motor_driver___adafruit_motor_shield_v2.html" title="(derived from QPID_MotorDriver) Implement a QPID_MotorDriver for DC motors hooked up to Adafruit&#39;s Mo..." alt="" coords="5,155,188,196"/>
+<area shape="rect" id="node4" href="$class_q_p_i_d___motor_driver___d_r_v8833.html" title="Implement a QPID_MotorDriver for TI&#39;s DRV8833 chip based modules. (Watch out for fake modules with th..." alt="" coords="213,162,407,189"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="153,5,253,32"/>
+</map>

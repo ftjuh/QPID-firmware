@@ -1,0 +1,5 @@
+<map id="QPID_DRV8833_MotorDriver" name="QPID_DRV8833_MotorDriver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,200,181"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___motor_driver.html" title="Mostly abstract class that defines access methods for generic motors, to be used in a QPID controller..." alt="" coords="37,80,168,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Doesn&#39;t do much at the moment besides establishing the message proce..." alt="" coords="53,5,153,32"/>
+</map>

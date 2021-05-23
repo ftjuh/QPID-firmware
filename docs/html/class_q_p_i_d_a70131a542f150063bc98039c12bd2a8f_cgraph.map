@@ -1,0 +1,4 @@
+<map id="QPID::runAtSpeedFor" name="QPID::runAtSpeedFor">
+<area shape="rect" id="node1" title="Make motor run at constant speed for a given number of millis. Uses only power PID for control,..." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d.html#a4f462847486c67d34653a3b441262923" title="Make motor run at constant speed until given timeout is reached. Uses only power PID for control,..." alt="" coords="204,5,363,32"/>
+</map>

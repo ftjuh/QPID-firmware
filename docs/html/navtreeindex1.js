@@ -1,0 +1,21 @@
+var NAVTREEINDEX1 =
+{
+"index.html":[0],
+"index.html":[],
+"md__home_jan__eigene__projekte__hobby__elektronik__projekte_2020-05__rotary__p_i_d_motor_controller__q_p_i_d__r_e_a_d_m_e.html":[1],
+"modules.html":[3],
+"pages.html":[],
+"structmsg_init_d_r_v8833.html":[4,0,0],
+"structmsg_init_d_r_v8833.html#a046acf8a18af76f950129b0aeb70c18f":[4,0,0,3],
+"structmsg_init_d_r_v8833.html#a42dc969bf06ed77713437915b5519064":[4,0,0,2],
+"structmsg_init_d_r_v8833.html#abbc13deb289f9e5f7b2748389b86c119":[4,0,0,1],
+"structmsg_init_d_r_v8833.html#abc4fe0580c509bdd52d6b52e617bfe23":[4,0,0,0],
+"structmsg_init_encoder_e_s_p32.html":[4,0,1],
+"structmsg_init_encoder_e_s_p32.html#a0dd62e0d49682bf1aa64ce2874fac9f3":[4,0,1,2],
+"structmsg_init_encoder_e_s_p32.html#a154dd3aabb0a88b39d87870a93339285":[4,0,1,4],
+"structmsg_init_encoder_e_s_p32.html#a60639067d9e778c305af1c444b0da9a3":[4,0,1,3],
+"structmsg_init_encoder_e_s_p32.html#aa2b454eae77de02005daf65e6477f794":[4,0,1,5],
+"structmsg_init_encoder_e_s_p32.html#aa9fa5777daa73ff91d79e2bae137a697":[4,0,1,0],
+"structmsg_init_encoder_e_s_p32.html#aebd1ca7e87998734c1e30c645a673576":[4,0,1,1],
+"todo.html":[2]
+};

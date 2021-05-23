@@ -1,0 +1,6 @@
+<map id="QPID_Encoder" name="QPID_Encoder">
+<area shape="rect" id="node1" title="Mostly abstract class for any kind of rotary encoder with optional filtering for jittery or error pro..." alt="" coords="133,80,244,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___encoder___e_s_p32.html" title="Implements a quadrature encoder using ESP32&#39;s super cool hardware counters (yeah!)...." alt="" coords="5,162,164,189"/>
+<area shape="rect" id="node4" href="$class_q_p_i_d___encoder___quadrature_state_machine.html" title="Implements a state machine quadrature encoder based on Matthias Hertel&#39;s rotary library" alt="" coords="188,155,400,196"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="139,5,239,32"/>
+</map>

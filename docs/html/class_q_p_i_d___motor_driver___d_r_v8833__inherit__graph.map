@@ -1,0 +1,5 @@
+<map id="QPID_MotorDriver_DRV8833" name="QPID_MotorDriver_DRV8833">
+<area shape="rect" id="node1" title="Implement a QPID_MotorDriver for TI&#39;s DRV8833 chip based modules. (Watch out for fake modules with th..." alt="" coords="5,155,200,181"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___motor_driver.html" title="Mostly abstract class that defines access methods and features for generic motors,..." alt="" coords="37,80,168,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="53,5,153,32"/>
+</map>

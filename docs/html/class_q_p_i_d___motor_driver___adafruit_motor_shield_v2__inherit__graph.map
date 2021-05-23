@@ -1,0 +1,5 @@
+<map id="QPID_MotorDriver_AdafruitMotorShieldV2" name="QPID_MotorDriver_AdafruitMotorShieldV2">
+<area shape="rect" id="node1" title="(derived from QPID_MotorDriver) Implement a QPID_MotorDriver for DC motors hooked up to Adafruit&#39;s Mo..." alt="" coords="5,155,188,196"/>
+<area shape="rect" id="node2" href="$class_q_p_i_d___motor_driver.html" title="Mostly abstract class that defines access methods and features for generic motors,..." alt="" coords="31,80,162,107"/>
+<area shape="rect" id="node3" href="$class_q_p_i_d___object.html" title="Base class for all QPID classes. Establishes interface for message processing and provides error repo..." alt="" coords="47,5,147,32"/>
+</map>
