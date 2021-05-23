@@ -24,7 +24,7 @@ var NAVTREE =
 [
   [ "QPIDfirmware", "index.html", [
     [ "QPID firmware - Autonomous PID and encoder controlled motor driver", "index.html", null ],
-    [ "QPID", "md__home_jan__eigene__projekte__hobby__elektronik__projekte_2020-05__rotary__p_i_d_motor_controller__q_p_i_d__r_e_a_d_m_e.html", null ],
+    [ "QPID-firmware", "md__home_jan__eigene__projekte__hobby__elektronik__projekte_2020-05__rotary__p_i_d_motor_controller__q_p_i_d__r_e_a_d_m_e.html", null ],
     [ "Todo List", "todo.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Classes", "annotated.html", [

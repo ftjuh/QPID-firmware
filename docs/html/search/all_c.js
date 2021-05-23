@@ -1,7 +1,7 @@
 var searchData=
 [
   ['qpid_20firmware_20_2d_20autonomous_20pid_20and_20encoder_20controlled_20motor_20driver_47',['QPID firmware - Autonomous PID and encoder controlled motor driver',['../index.html',1,'']]],
-  ['qpid_48',['QPID',['../md__home_jan__eigene__projekte__hobby__elektronik__projekte_2020-05__rotary__p_i_d_motor_controller__q_p_i_d__r_e_a_d_m_e.html',1,'']]],
+  ['qpid_2dfirmware_48',['QPID-firmware',['../md__home_jan__eigene__projekte__hobby__elektronik__projekte_2020-05__rotary__p_i_d_motor_controller__q_p_i_d__r_e_a_d_m_e.html',1,'']]],
   ['qpid_5fencoder_49',['QPID_Encoder',['../class_q_p_i_d___encoder.html',1,'']]],
   ['qpid_5fencoder_2ecpp_50',['QPID_Encoder.cpp',['../_q_p_i_d___encoder_8cpp.html',1,'']]],
   ['qpid_5fencoder_2eh_51',['QPID_Encoder.h',['../_q_p_i_d___encoder_8h.html',1,'']]],
